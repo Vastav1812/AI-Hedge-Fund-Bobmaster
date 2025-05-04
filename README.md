@@ -14,8 +14,8 @@ An autonomous decision-making AI agent for a no-code DeFi hedge fund platform. T
 - TypeScript
 - Sequence Wallet SDK
 - OpenAI API
-- Ethereum/EVM Blockchain
-- DeFi Protocols (Uniswap, etc.)
+- Sonenium Blockchain
+- DeFi Protocols (Uniswap)
 
 ## Getting Started
 
